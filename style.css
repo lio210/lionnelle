@@ -1,6 +1,14 @@
-h1{color: mediumslateblue;}
-h2{color: mediumslateblue;}
+h1{color: black;}
+h2{color: black;}
 body{color: black;
 background-color: ghostwhite;
 margin: 70px;}
 button{color: mediumslateblue;}
+
+body{background-image: url("images/pp.jpg");}
+
+li{
+	color: black;
+	display: inline-block;
+
+}
